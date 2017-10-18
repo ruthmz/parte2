@@ -1,0 +1,16 @@
+
+div{
+  box-sizing: border-box;
+  height: 100px;
+  width: 210px;
+  margin: 10px;
+  padding: 10px;
+  font-family: 'times new roman';
+}
+.yellow{
+  background: #F7B617;
+}
+.black{
+  background: #2B2B2B;
+  color: white;
+}
